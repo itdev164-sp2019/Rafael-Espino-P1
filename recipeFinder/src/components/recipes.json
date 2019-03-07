@@ -1,0 +1,15 @@
+[
+    {
+        "Beef": "Bacon Burger",
+        "Ingredients":[{
+            "onion":"Onion",
+            "oliveOil":"Olive Oil"
+        }],
+        "Instructions": " Ingredients: Candied Bacon \n 1 lb thick cut applewood smoked bacon \n 1/2 cup light brown sugar "
+    },{  "chicken": "Bacon Burger",
+        "Ingredients":[
+
+        ]
+
+    }
+]
